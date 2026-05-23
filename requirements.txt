@@ -1,2 +1,6 @@
-torch==2.2.2
-mamba-ssm==1.2.0
+torch
+numpy
+matplotlib
+pandas
+thop
+pytest
