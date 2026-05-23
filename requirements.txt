@@ -1,6 +1,7 @@
-torch
-numpy
-matplotlib
-pandas
-thop
-pytest
+# Tested with the local TFproject conda environment, Python 3.11.
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.10.0+cu126
+numpy==2.3.5
+matplotlib==3.10.8
+pandas==3.0.2
+thop==0.1.1.post2209072238

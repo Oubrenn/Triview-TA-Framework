@@ -31,5 +31,6 @@ and validation split.
 ## Tests
 
 ```bash
+pip install pytest
 pytest -q
 ```
